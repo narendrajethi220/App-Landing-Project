@@ -1,0 +1,23 @@
+.jumbotron {
+  background-image: url(/images/jumbotronimage.png);
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+#content {
+  text-align: center;
+}
+
+.card-deck {
+  margin-left: 130px;
+  padding-top: 20px;
+}
+#footer {
+  background-color: cornflowerblue;
+  padding: 150px 0 150px 0;
+  text-align: center;
+  margin-top: 100px;
+}
+#appstoreicon {
+  width: 200px;
+}
